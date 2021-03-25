@@ -4,6 +4,7 @@ from tkinter import messagebox
 root =Tk()
 root.title("Tic Tac Toe")
 
+#players
 player_a = StringVar()
 player_b = StringVar()
 
